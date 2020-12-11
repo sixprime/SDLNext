@@ -1,2 +1,2 @@
-# sdl2pp
+# SDLNext
 C++ wrapper for SDL2.
